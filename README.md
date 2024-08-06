@@ -1,4 +1,4 @@
-##TodoApp-react
+#TodoApp-react
 TodoApp-react is a simple and intuitive todo list application built with React. It provides an easy way to manage and track your daily tasks, helping you stay organized and productive. Whether you need to jot down quick notes, create a shopping list, or manage your work tasks, TodoApp-react has you covered.
 
 ##Key Features:
@@ -10,7 +10,7 @@ Filter by Status: View all tasks, only completed tasks, or only pending tasks.
 Responsive Design: The app is fully responsive, providing a seamless experience on both desktop and mobile devices.
 Accessibility: Designed with accessibility in mind, ensuring the app is usable by everyone.
 
-##Technologies Used:
+#Technologies Used:
 React: A popular JavaScript library for building user interfaces.
 React Icons: A library of icons for easy visual representation.
 CSS: Custom styles for a clean and modern look.
